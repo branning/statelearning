@@ -1,0 +1,9 @@
+http://www-bcf.usc.edu/~gareth/ISL/Advertising.csv
+http://www-bcf.usc.edu/~gareth/ISL/Auto.data
+http://www-bcf.usc.edu/~gareth/ISL/Auto.csv
+http://www-bcf.usc.edu/~gareth/ISL/College.csv
+http://www-bcf.usc.edu/~gareth/ISL/Ch10Ex11.csv
+http://www-bcf.usc.edu/~gareth/ISL/Credit.csv
+http://www-bcf.usc.edu/~gareth/ISL/Income1.csv
+http://www-bcf.usc.edu/~gareth/ISL/Income2.csv
+http://www-bcf.usc.edu/~gareth/ISL/Heart.csv
