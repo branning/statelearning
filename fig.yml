@@ -1,0 +1,7 @@
+rstudio:
+    image: rocker/hadleyverse
+    ports:
+        - "8787:8787"
+    volumes:
+        - datasets/:/home/rstudio/datasets/
+        - scripts/:/home/rstudio/scripts/
